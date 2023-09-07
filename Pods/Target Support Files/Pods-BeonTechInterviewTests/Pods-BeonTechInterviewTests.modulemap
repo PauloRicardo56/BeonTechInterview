@@ -1,0 +1,6 @@
+framework module Pods_BeonTechInterviewTests {
+  umbrella header "Pods-BeonTechInterviewTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
